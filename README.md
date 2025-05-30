@@ -1,1 +1,1 @@
-# Embedded_UART-Driver_on_QEMU
+# Embedded UART Driver on QEMU (Baremetal ARM Cortex-M)
