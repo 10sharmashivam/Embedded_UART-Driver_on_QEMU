@@ -63,6 +63,3 @@ make run_grub
    - Multiboot support
    - Ubuntu boot capability
    - Custom boot menu
-
-## License
-MIT License 
